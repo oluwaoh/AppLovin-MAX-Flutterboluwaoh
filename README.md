@@ -22,7 +22,7 @@ To get started with the demo app, please ensure Flutter is installed on your sys
 - Open `build.gradle` with a text editor or an IDE. 
 - Update `applicationId` with your package name.
 ````
-android {
+android {oluwaoh/>
     ⋮
     defaultConfig {
         applicationId "your_package_name"
